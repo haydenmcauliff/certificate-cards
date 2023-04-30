@@ -8,7 +8,7 @@ Average Salary: **$62,303**
 ## UX Design
 User experience design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product.
 
-Average Salary: **$95,421**
+Average Salary: **$62,303**
 
 ## Motion and Animation
 Motion and animation is the art of creating the illusion of movement by displaying a sequence of static images in rapid succession. Motion graphics are similar to traditional animation, but they are created using digital tools and techniques.
