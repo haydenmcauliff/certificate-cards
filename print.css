@@ -16,12 +16,14 @@
 
     /* turn paragraphs into colums */
     .face p {
-        columns: 2;
+        columns: 1;
     }
 
     @page {
         /* reset page margins */
         margin: .25in;
     }
-
+img {
+    max-width: 400px;
+}
 }
