@@ -7,18 +7,18 @@ body {
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-color: rgb(216, 255, 255);
+      background-color: rgb(182, 206, 206);
   }
 h2, h4 {
     font-size: 24pt;
     text-align: center;
-    font-family: Bevellier-Semibold;
+    font-family: Khand-Semibold;
     color: black;
   } 
 .Heading1 {
   font-size: 24pt;
   text-align: center;
-  font-family: Bevellier-Semibold;
+  font-family: Khand-Semibold;
   color: rgb(219, 192, 250);
   align-content: center;
   margin-top: 30px;
@@ -26,20 +26,21 @@ h2, h4 {
 a {
   font-size: 17pt;
   text-align: center;
-  font-family: Bevellier-Semibold;
+  font-family: Khand-Semibold;
   color: rgb(219, 192, 250);
   text-decoration: none;
+  margin-left: 44px;
 } 
 
   p {
     text-align: left;
     margin: 20px;
-    font-family: Bevellier-Light;
+    font-family: Khand-Light;
     font-size: 13pt;
   }
   h3 {
     text-align: center;
-    font-family: Bevellier-Regular;
+    font-family: Khand-Regular;
   }
   svg {
     margin: 0px;
@@ -62,7 +63,7 @@ a {
       width: 100%;
       height: 100%;
       position: relative;
-      border-radius: 35px;
+      border-radius: 20px;
       border: 5px solid black;
   
       cursor: pointer;
@@ -81,7 +82,7 @@ a {
       position: absolute;
       height: 100%;
       width: 100%;
-      border-radius: 30px ;
+      border-radius: 15px ;
   
       /* hide back face   */
       backface-visibility: hidden;
@@ -93,7 +94,7 @@ a {
   img {
     background-position: center;
     background-size: cover;
-    border-radius: 30px 30px 0 0;
+    border-radius: 17px 17px 0 0;
     width: 100%;
     height: 275px;
   }
